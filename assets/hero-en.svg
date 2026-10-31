@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="450" viewBox="0 0 1280 450" role="img" aria-label="Salamat Akhmedyanov — Developer and first-year university student">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070d1a"/><stop offset=".65" stop-color="#0d1830"/><stop offset="1" stop-color="#0b0e1b"/></linearGradient>
+ <linearGradient id="text" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8aecff"/><stop offset="1" stop-color="#48b6ff"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#35e5d7"/><stop offset=".55" stop-color="#50b9f9"/><stop offset="1" stop-color="#a787fc"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#294680" stop-opacity=".63"/><stop offset="1" stop-color="#252257" stop-opacity="0"/></radialGradient>
+ <pattern id="dots" width="29" height="29" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#59718a" opacity=".20"/></pattern>
+ <clipPath id="clip"><rect width="1280" height="450" rx="25"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1280" height="450" fill="url(#bg)"/><rect width="1280" height="450" fill="url(#dots)"/>
+ <ellipse cx="1040" cy="239" rx="330" ry="300" fill="url(#halo)"/>
+ <path d="M0 3H1280" stroke="url(#line)" stroke-width="6"/>
+ <rect x="52" y="43" width="51" height="51" rx="14" fill="#153043" stroke="#36738b"/>
+ <text x="77.5" y="75" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" font-weight="bold" fill="#7de8f9">S.</text>
+ <text x="122" y="66" font-family="Arial,sans-serif" font-weight="bold" letter-spacing="3" font-size="14" fill="#ecf5ff">SALAMAT / DEV</text>
+ <text x="122" y="84" font-family="Arial,sans-serif" letter-spacing="1.7" font-size="10" fill="#90a6c0">BUILDING WHAT MATTERS</text>
+ <text x="1225" y="72" text-anchor="end" font-family="Arial,sans-serif" letter-spacing="1.8" font-size="13" fill="#a0b7d1">KAZAKHSTAN  ·  YEAR 01</text>
+ <path d="M52 111H1228" stroke="#30445b" opacity=".8"/>
+ <circle cx="65" cy="153" r="4" fill="#4ae2d7"/>
+ <text x="80" y="158" font-family="Arial,sans-serif" font-size="13" font-weight="bold" letter-spacing="1.6" fill="#74dadb">AI / FULL-STACK / PRODUCT ENGINEERING</text>
+ <text x="52" y="251" font-family="Arial,sans-serif" font-size="85" font-weight="bold" letter-spacing="-3" fill="#f3f8ff">SALAMAT</text>
+ <text x="51" y="324" font-family="Arial,sans-serif" font-size="70" font-weight="bold" letter-spacing="-2" fill="url(#text)">AKHMEDYANOV</text>
+ <text x="56" y="361" font-family="Arial,sans-serif" font-size="17" fill="#b0c6df">Engineering thoughtful products with real-world impact.</text>
+ <path d="M54 397H718" stroke="#394e69"/>
+ <text x="54" y="422" font-family="Arial,sans-serif" font-size="12" letter-spacing="2.1" fill="#8ea6c1">IDEATE   /   ENGINEER   /   SHIP</text>
+ <circle cx="1020" cy="249" r="155" fill="none" stroke="#43617d" stroke-width="1" opacity=".45"/>
+ <circle cx="1020" cy="249" r="114" fill="none" stroke="#4e759a" stroke-width="1" stroke-dasharray="4 8" opacity=".55"/>
+ <circle cx="1020" cy="249" r="78" fill="none" stroke="#4e86a5" opacity=".57"/>
+ <path d="M864 249H1176M1020 94V404M910 141L1130 359M910 359L1130 141" stroke="#50657d" opacity=".3"/>
+ <path d="M895 155L1020 249L1140 166M909 345L1020 249L1140 344" fill="none" stroke="url(#line)" stroke-width="2" opacity=".74"/>
+ <circle cx="895" cy="155" r="8" fill="#59dde8"/><circle cx="1140" cy="166" r="8" fill="#ac96ff"/><circle cx="909" cy="345" r="7" fill="#6deabc"/><circle cx="1140" cy="344" r="8" fill="#63caff"/>
+ <circle cx="1020" cy="249" r="58" fill="#142d44" stroke="#6acfeb" stroke-width="2"/>
+ <path d="M1005 234L990 249L1005 264M1035 234L1050 249L1035 264" stroke="#81ebfa" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+ <path d="M1027 227L1013 273" stroke="#b09cff" stroke-width="6" stroke-linecap="round"/>
+ <rect x="826" y="112" width="132" height="32" rx="9" fill="#13293c" stroke="#476b83"/>
+ <text x="892" y="133" text-anchor="middle" font-family="Arial,sans-serif" font-weight="bold" letter-spacing="1" font-size="11" fill="#8ae7e2">CREATE</text>
+ <rect x="1082" y="383" width="140" height="32" rx="9" fill="#13293c" stroke="#476b83"/>
+ <text x="1152" y="404" text-anchor="middle" font-family="Arial,sans-serif" font-weight="bold" letter-spacing=".9" font-size="11" fill="#c3b3ff">ITERATE</text>
+</g></svg>
